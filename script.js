@@ -239,10 +239,21 @@ seventeenshade = () => {
 // call the fuction
 seventeenshade();
 // 17 block end--
-
-
 // past present future shade end--
 
+// var plan = JSON.parse(localStorage.getItem('plan')) || []
+// // start click to type in planner code++
+// document.addEventListener('click', event => {
+//   if (event.target.classList.contains('saveBtn')) {
+
+//     plan.forEach(plan => {
+//       let planElem = document.createElement()
+//     })
+//   }
+
+// })
+
+// end click to type in planner code--
 
 //   .classList.add('past');
 // .classList.add('present');
